@@ -1,0 +1,28 @@
+---
+title:
+  - type: main
+    text: Fate/Strange Fake
+  - type: subtitle
+    text: Volume 1
+creator:
+  - role: author
+    text: Narita Ryohgo
+  - role: illustrator
+    text: Morii Shizuki
+  - role: translator
+    text: Nakulas
+  - role: translator
+    text: OtherSideofSky
+  - role: translator
+    text: Mew
+  - role: translator
+    text: RCM9698
+  - role: bookdesigner
+    text: Quintasan
+identifier:
+  - scheme: ISBN-10
+    text: 4048691686
+  - scheme: ISBN-13
+    text: 978-4048691680 
+lang: en-US
+...
